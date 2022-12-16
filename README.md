@@ -33,7 +33,7 @@ Bugs
 To start with, we’ll create the first chapter - escaping the cave. Perhaps we need to find weapons/armour, and solve some puzzles? Could there be an interesting puzzle mechanic? The cave level would ideally be a dark and spooky platformer style – maybe we can do something interesting with light and being able to see specific parts of the level to progress..?
 
 
-#Character descriptions:
+# Character descriptions:
 
 The Traveller (Protagonist):
 More suited to desert life, they are dressed in loose fitting breathable clothing. They're young, perhaps just old enough to start exploring the world on their own. They might have mystical tattoos or runes on their skin/face, which may come into play later in the game as magical conduits or similar. It could be cool to have them masked, as flora suggested. I think that would give the game a unique style. The Traveller is a survivalist, suited to the outdoors. Perhaps they have a familiar, like a small animal companion? They have a backpack and lots of pouches and pockets to keep their many items in.
@@ -48,7 +48,7 @@ The Evil:
 I'm really not sure yet what the evil antagonist in the game should look like yet. Maybe some reference to the technology wipeout that is implied by the "great flare" event...? Some kind of rogue AI that has survived the wipeout and taken human form...?
 
 
-#Art style and overall design:
+# Art style and overall design:
 
 The game will follow a simple pixel design, hopefully with some interesting shading from light sources to make things look interesting. What's needed in terms of art is a detailed character profile for each character, to use in cutscenes and interactions, as well as side-profile pixelated sprites for enemies and the protagonist.
 
