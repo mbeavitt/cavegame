@@ -38,7 +38,7 @@ To start with, we’ll create the first chapter - escaping the cave. Perhaps we 
 
 # Character descriptions:
 
-The Traveller (Protagonist):
+## The Traveller (Protagonist):
 The Traveller is a young adventurer who is well-suited to life in the desert. They are dressed in loose-fitting, breathable clothing that helps them withstand the scorching heat and sandstorms that are common in their homeland. They may have mystical tattoos or runes on their skin or face, which serve as magical conduits or offer protection against the elements. The Traveller wears a mask to protect themselves from the harsh desert winds, giving them a unique and mysterious appearance.
 
 The Traveller is a skilled survivalist, accustomed to living off the land and navigating the dangers of the wilderness. They are resourceful and adaptable, always ready to face whatever challenges come their way. They carry a backpack and numerous pouches and pockets to keep their supplies and gear organized, and they may have a small animal companion, such as a loyal pet or a trained falcon, to help them on their journey.
@@ -52,7 +52,7 @@ The Traveller wears a mask to protect their face from the harsh desert winds, gi
 Overall, the Traveller is a formidable and enigmatic figure, well-suited to the demands of desert life and ready to take on whatever challenges come their way.
 
 
-The Mayor:
+## The Mayor:
 World weary and pushed into a position of power by necessity, the mayor is rough at the edges and has seen it all. His eyes are deep set, haunting, telling tales of cold winters and hard decisions. He is a strong-willed and ambitious leader who is deeply devoted to the safety and well-being of the village. He is torn between his loyalty to his son and his duty to the community when the traveler becomes the suspect in their son's death. He's pulled his people through great hardships through pure grit, having to sacrifice everything to survive. Finally, it seems like everything is on track, until the worst possible thing happens...
 
 The Mayor is a formidable figure, with a commanding presence and a strong, confident demeanor. They have a well-muscled build, with broad shoulders and a powerful frame, and their skin is tanned and weathered from years spent working and living in the outdoors. Their eyes are sharp and piercing, with a fierce intelligence that belies their no-nonsense approach to leadership.
@@ -64,7 +64,7 @@ The Mayor wears a number of accessories that reflect their position and wealth, 
 Overall, the Mayor is a formidable and respected figure, with a commanding presence and a strong sense of purpose. They are deeply devoted to the safety and well-being of their village, and they will stop at nothing to protect their people from harm.
 
 
-The Mayor's son:
+## The Mayor's son:
 The Mayor's son is a young man, perhaps in his late teens or early twenties. He has a lean, athletic build, with toned muscles and a sinewy frame that reflects his active lifestyle. His skin is tanned and lightly freckled, with a hint of sunburn around his nose and cheeks, and his hair is a messy mop of curls that he often pushes out of his eyes with a careless gesture.
 
 The Mayor's son is known for his carefree and reckless attitude, and this is reflected in his clothing and appearance. He often wears clothing that is loose, casual, and slightly disheveled, with a sense of style that is both rebellious and nonchalant. He may wear a leather jacket, a band t-shirt, or a pair of torn jeans, depending on his mood and the occasion.
@@ -74,7 +74,7 @@ The Mayor's son is not one for formal attire or accessories, preferring to go ab
 Overall, the Mayor's son is a charismatic and reckless young man, with a devil-may-care attitude that often gets him into trouble. He is fiercely independent and not afraid to defy authority, but he also has a deep sense of loyalty to his friends and family, and he will go to great lengths to protect those he cares about.
 
 
-The Evil Spirit:
+## The Evil Spirit:
 The evil spirit is a malevolent entity that takes on a variety of forms and shapes, depending on its mood and intent. At times, it may appear as a shadowy figure with glowing red eyes and a twisted, demonic face, exuding a sense of malevolence and power. At other times, it may take on a more subtle guise, appearing as a seductive or alluring figure that is designed to lure its victims into a false sense of security.
 
 Regardless of its form, the evil spirit exudes a sense of darkness and malevolence that is palpable to those around it. It radiates an aura of power and danger that can be felt by anyone who comes within its reach, and it is capable of manipulating and controlling the minds of those it encounters.
@@ -82,10 +82,12 @@ The evil spirit is able to shape-shift and transform its appearance at will, tak
 Overall, the evil spirit is a formidable and terrifying presence, with a malevolent and unpredictable nature that makes it a formidable foe for anyone who stands in its way.
 
 
-The Tinkers: The tinkers are a group of skilled craftsmen and inventors who live in the village and are known for their resourcefulness and ability to repair and create all sorts of gadgets and tools. They may be able to help the traveler in their quest to defeat the malevolent spirit.
+## The Tinkers:
+The tinkers are a group of skilled craftsmen and inventors who live in the village and are known for their resourcefulness and ability to repair and create all sorts of gadgets and tools. They may be able to help the traveler in their quest to defeat the malevolent spirit.
 
 
-The Scavengers: The scavengers are a group of scrappy and resourceful individuals who make a living by scouring the land for valuable resources and relics. They may be able to provide valuable information or assistance to the traveler as they navigate the dangers of the forest and cave.
+## The Scavengers:
+The scavengers are a group of scrappy and resourceful individuals who make a living by scouring the land for valuable resources and relics. They may be able to provide valuable information or assistance to the traveler as they navigate the dangers of the forest and cave.
 
 
 # Art style and overall design:
