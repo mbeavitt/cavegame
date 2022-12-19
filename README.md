@@ -15,22 +15,22 @@ When they wake up, they find themselves in the presence of an apparition of the 
 
 ### Characters:
 
--Mayor
--Mayor’s son
--The village elder
--The Traveller (Protagonist)
--The Tinkers
--The Scavengers
--[+ Cave characters]
--Evil spirit (antagonist - what do they look like?)
+- Mayor
+- Mayor’s son
+- The village elder
+- The Traveller (Protagonist)
+- The Tinkers
+- The Scavengers
+- [+ Cave characters]
+- Evil spirit (antagonist - what do they look like?)
 
 ### Enemies:
--Cavedwellers
--Goblins
--Imps
--Rats
--Bugs
--[etc]
+- Cavedwellers
+- Goblins
+- Imps
+- Rats
+- Bugs
+- [etc]
 
 
 To start with, we’ll create the first chapter - escaping the cave. Perhaps we need to find weapons/armour, and solve some puzzles? Could there be an interesting puzzle mechanic? The cave level would ideally be a dark and spooky platformer style – maybe we can do something interesting with light and being able to see specific parts of the level to progress..?
