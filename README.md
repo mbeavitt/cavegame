@@ -2,6 +2,7 @@
 A 2d platformer game project
 
 
+## Introduction
 In the far distant future, after the devastating Great Flare, a small village of scavengers and tinkers have managed to carve out a simple but peaceful life for themselves in the mountain hardwood forests. However, their tranquility is shattered when a mysterious traveler arrives from the desert plains. The wise elder recognizes the traveler from a dream, but the other townsfolk are immediately suspicious of the newcomer.
 
 
@@ -12,24 +13,24 @@ When they wake up, they find themselves in the presence of an apparition of the 
 
 
 
-Characters:
+### Characters:
 
-Mayor
-Mayor’s son
-The village elder
-The Traveller (Protagonist)
-The Tinkers
-The Scavengers
-[+ Cave characters]
-Evil spirit (antagonist - what do they look like?)
+-Mayor
+-Mayor’s son
+-The village elder
+-The Traveller (Protagonist)
+-The Tinkers
+-The Scavengers
+-[+ Cave characters]
+-Evil spirit (antagonist - what do they look like?)
 
-Enemies:
-Cavedwellers
-Goblins
-Imps
-Rats
-Bugs
-[etc]
+### Enemies:
+-Cavedwellers
+-Goblins
+-Imps
+-Rats
+-Bugs
+-[etc]
 
 
 To start with, we’ll create the first chapter - escaping the cave. Perhaps we need to find weapons/armour, and solve some puzzles? Could there be an interesting puzzle mechanic? The cave level would ideally be a dark and spooky platformer style – maybe we can do something interesting with light and being able to see specific parts of the level to progress..?
